@@ -84,6 +84,34 @@ border-radius: 40px;
   font-size: 42px;
 }
 
+.resume-contact {
+  margin-top: 15px;
+  font-size: 16px;
+  color: #333;
+}
+
+.resume-contact a {
+  color: #337ab7;
+  text-decoration: underline;
+}
+
+.resume-actions {
+  margin-top: 18px;
+}
+
+.resume-entry {
+  margin-bottom: 25px;
+}
+
+.resume-entry h3 {
+  margin-bottom: 6px;
+}
+
+.resume-entry ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
 .navbar {
     text-transform: uppercase;
     font-family: Poppins;
